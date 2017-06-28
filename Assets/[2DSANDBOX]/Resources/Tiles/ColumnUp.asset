@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bee4508e29fca594d81a8c8c06c98898, type: 3}
+  m_Name: ColumnUp
+  m_EditorClassIdentifier: 
+  _id: 27
+  _maxHealth: 6
+  _texture: {fileID: 2800000, guid: b36a9860a283d294b9ae8c2eac9196f7, type: 3}
+  _specialTile: 0
+  _backgroundTile: 0
+  _displayName: 
+  _visible: 1
+  _solid: 1
+  _opaque: 1
+  _dropItem: 1
+  _droppedItem: {fileID: 11400000, guid: 1727c405ff1eb5d4fba71390e87ce823, type: 2}

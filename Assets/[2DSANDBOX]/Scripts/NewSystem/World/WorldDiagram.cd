@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="World">
+    <Position X="1.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAYgAAAAACACEAAAAAAAAABEQABAoAQQWACQhgIABMA=</HashCode>
+      <FileName>Assets\2DSandboxRPG\Scripts\NewSystem\World\World.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tile">
+    <Position X="10.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAABACAAEAAAAAABBAAAAAAAAAAAAAAAAAAAAAAgg=</HashCode>
+      <FileName>Assets\2DSandboxRPG\Scripts\NewSystem\World\Tile.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TileAsset">
+    <Position X="12.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIARAABAAAAABACAQAAAgBQgAiAAAACAEAAgA=</HashCode>
+      <FileName>Assets\2DSandboxRPG\Scripts\NewSystem\World\TileAsset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chunk">
+    <Position X="8" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAECABAAAABAAAAAQBAAYCBAEgAEAAEBAAAAgAEQAEA=</HashCode>
+      <FileName>Assets\2DSandboxRPG\Scripts\NewSystem\World\Chunk.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MapHandler">
+    <Position X="4.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hQAAAQAAABBAAAAAIAIEAEACAABAAKAAAAAAgCAEAEA=</HashCode>
+      <FileName>Assets\2DSandboxRPG\Scripts\NewSystem\World\MapHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,96 @@
+@MCGameStudios - [2D SANDBOX GAME - COMPLETE PROJECT] - Documentation
+Created and Copyrighted by MCGameStudios 2014-2016
+
+Chapter 1
+
+Hello!
+Welcome to Tutorial of the 2D SANDBOX GAME project!
+
+This is the third version of the package with:
+-New Sound effects (walking,background)
+-New blocks
+-save/load system
+-enemies/life system
+-day/night system
+-mainemnu working 
+-options
+-inventory (W.I.P - next update = innovative inventory)
+-generator/structures = next update
+-Character select - next update
+-Mobile version - next update
+-Multiplayer (hope next update)
+-and many many more...
+
+It is coming because we want to introduce new things step by step.
+Please write to us with ideas/bugs in game etc. we appreciate every help and support :)
+
+
+OKAY!
+Let's start.
+
+Chapter 2. - 
+
+1.How to create blocks?
+
+1.1.Create 16x16 sprite (all block sprites are in spr_tilesets.psd file).
+1.2.After you paint new block in this file go to -> sprite editor in inspector of this file (check if: Texture Type is: 2d and UI + sprite mode is: Multiple)
+1.3.Mark 16x16 block that you painted and name it "Your Name of Block" -> Then Apply
+1.4.Check if max size is 128 because this is a size of our .PSD file. -> Then Apply
+
+OKAY we have a block. Now lets move to scripting
+
+2.How to add blocks/pickups to game?
+
+Youtube: https://www.youtube.com/watch?v=hwr0F3LUaQ8
+Text Tut: Soon
+
+3.How to add crafting?
+
+Youtube: https://www.youtube.com/watch?v=6kvmUisnFGA 
+
+4. Main Tutorial:
+
+Youtube: https://www.youtube.com/watch?v=UePjatyPM_4
+
+5. Where the map saves and everything about maps:
+
+Youtube: Soon
+Text: The main map is in Assets folder. 
+Map in Assets=>Maps is the first map that will show after click "Start Game"
+To add the map to your game:
+5.1 Build Game
+5.2 Open Game and Start Game
+5.3 Close Game
+5.4 Find created "Maps" folder in Built Game and replace them by your own Map
+5.5 That is all
+
+If you won't have MAPS folder with your own map it will generate infinite flat map
+
+6. RESOURCES FOLDER
+
+- In resources folder you can find the most important things of the new system of the game:
+-there you put: textures of blocks to game 
+
+
+THAT'S ALL! ;)
+
+Now you can create every block and pickup this same way! ;)
+
+Just look at the player prefab to understand how it works. It use sprites as an animation and animator to make it walk and stay.
+
+
+This is the Tutorial, and everything you need to create the most important things in game ;)
+For every update I will write new tutorial like: 
+how to add sounds
+how to add enemies etc.
+
+
+Thank you for buy the project, I hope that you like the game and you learned something from this project.
+
+Contact info:
+E-Mail: mcgamestudios@gmail.com
+Website: mcgamestudios.za.pl
+Youtube: coming soon
+
+If you have any questions write to me, send bugs and ideas. I'm pointing to complete that in next update.
+

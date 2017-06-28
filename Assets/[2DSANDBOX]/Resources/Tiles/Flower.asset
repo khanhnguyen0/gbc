@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bee4508e29fca594d81a8c8c06c98898, type: 3}
+  m_Name: Flower
+  m_EditorClassIdentifier: 
+  _id: 5
+  _maxHealth: 0
+  _texture: {fileID: 2800000, guid: d964f05070276354482efb9d79cb0a7f, type: 3}
+  _specialTile: 0
+  _backgroundTile: 0
+  _displayName: Flower
+  _visible: 1
+  _solid: 0
+  _opaque: 0
+  _dropItem: 1
+  _droppedItem: {fileID: 11400000, guid: 21dabeb674f7b234d91450cb9878bd73, type: 2}

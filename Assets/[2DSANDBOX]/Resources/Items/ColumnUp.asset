@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be04271f3dec0bd48b5f85bf38d1e647, type: 3}
+  m_Name: ColumnUp
+  m_EditorClassIdentifier: 
+  _id: 26
+  _displayName: 
+  _texture: {fileID: 2800000, guid: b36a9860a283d294b9ae8c2eac9196f7, type: 3}
+  _tileAsset: {fileID: 11400000, guid: 42d583bd8dd73c748a076ac3a5e3b1e9, type: 2}

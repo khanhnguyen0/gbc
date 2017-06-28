@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6433d710f0c85341be1003dd57e5014, type: 3}
+  m_Name: World Properties
+  m_EditorClassIdentifier: 
+  _worldDimension: 9
+  _chunkDimension: 8
+  _worldHeight: 0
